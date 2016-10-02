@@ -1,4 +1,6 @@
 var clientID = "433534737832-ar73849hukt5tl1s93bt5jogk8ovm736.apps.googleusercontent.com";
+var apiKey = ;
+var scopes = ;
 
 function onSignIn(googleUser) {
   var profile = googleUser.getBasicProfile();
